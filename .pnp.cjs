@@ -31,6 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
             ["@vitejs/plugin-react", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:3.1.0"],\
+            ["animate.css", "npm:4.1.1"],\
             ["autoprefixer", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:10.4.13"],\
             ["formik", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:2.2.9"],\
             ["postcss", "npm:8.4.21"],\
@@ -845,6 +846,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["aggregate-error", "npm:3.1.0"],\
             ["clean-stack", "npm:2.2.0"],\
             ["indent-string", "npm:4.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["animate.css", [\
+        ["npm:4.1.1", {\
+          "packageLocation": "./.yarn/cache/animate.css-npm-4.1.1-5c526dcd84-c7eb915404.zip/node_modules/animate.css/",\
+          "packageDependencies": [\
+            ["animate.css", "npm:4.1.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2075,6 +2085,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-dom", "npm:18.0.11"],\
             ["@vitejs/plugin-react", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:3.1.0"],\
+            ["animate.css", "npm:4.1.1"],\
             ["autoprefixer", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:10.4.13"],\
             ["formik", "virtual:d7aba2370594574a93dd4dfd36ddd5c2a050f942f8c0447e4d665a6fe924fffa73451503d0deaad7f0883eb8a999f0869cb30c2313b91a707ef33ddb5f1db5d0#npm:2.2.9"],\
             ["postcss", "npm:8.4.21"],\

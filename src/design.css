@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700;800;900&display=swap');
+
+.inter-regular {
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.inter-semibold {
+  font-family: 'Inter';
+  font-weight: 600;
+}
+
+.inter-bold {
+  font-family: 'Inter';
+  font-weight: 700;
+}
+
+.inter-extrabold {
+  font-family: 'Inter';
+  font-weight: 800;
+}
+
+.inter-black {
+  font-family: 'Inter';
+  font-weight: bold;
+}
